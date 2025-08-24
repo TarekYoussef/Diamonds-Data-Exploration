@@ -4,7 +4,7 @@
 
 The data consists of information regarding 54,000 round-cut diamonds, including
 price, carat, and other diamond qualities. The dataset can be found in the
-repository for R's ggplot2 library [here](https://github.com/tidyverse/ggplot2/blob/master/data-raw/diamonds.csv),
+repository for R's ggplot2 library [here]([https://github.com/tidyverse/ggplot2/blob/master/data-raw/diamonds.csv](https://github.com/TarekYoussef/Diamonds-Data-Exploration/blob/main/diamonds.csv)),
 with feature documentation available [here](http://ggplot2.tidyverse.org/reference/diamonds.html).
 
 
